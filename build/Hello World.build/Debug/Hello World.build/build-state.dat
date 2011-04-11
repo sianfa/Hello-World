@@ -1,0 +1,63 @@
+THello World
+v7
+r1
+
+N/Users/dajlling/Dev/Git/Hello-World/Hello_WorldViewController.xib
+c0000000049D395400000000000001ADA
+t1238603072
+s6874
+
+N/Users/dajlling/Dev/Git/Hello-World/MainWindow.xib
+c0000000049D395400000000000002367
+t1238603072
+s9063
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/Resources/Hello_WorldViewController.nib
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/icon.png
+c0000000049D395400000000000001230
+t1238603072
+s4656
+
+NInfo.plist
+c0000000049D395400000000000000374
+t1238603072
+s884
+
+CCompileXIB /Users/dajlling/Dev/Git/Hello-World/Hello_WorldViewController.xib
+r0
+
+CCompileXIB /Users/dajlling/Dev/Git/Hello-World/MainWindow.xib
+r0
+
+CCpResource "build/Debug/Hello World.app/Contents/Resources/icon.png" icon.png
+r0
+
+CProcessInfoPlistFile "/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/dajlling/Dev/Git/Hello-World/build/Debug/Hello World.app"
+r0
+

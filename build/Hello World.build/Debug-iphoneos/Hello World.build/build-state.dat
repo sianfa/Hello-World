@@ -1,0 +1,185 @@
+THello World
+v7
+r1
+
+N/Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldAppDelegate.h
+c0000000049D3954000000000000001F1
+t1238603072
+s497
+i<UIKit/UIKit.h>
+
+N/Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldAppDelegate.m
+c0000000049D395400000000000000269
+t1238603072
+s617
+i"Hello_WorldAppDelegate.h"
+i"Hello_WorldViewController.h"
+
+N/Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldViewController.h
+c0000000049D3954000000000000000FA
+t1238603072
+s250
+i<UIKit/UIKit.h>
+
+N/Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldViewController.m
+c0000000049D39540000000000000029F
+t1238603072
+s671
+i"Hello_WorldViewController.h"
+
+N/Users/dajlling/Dev/Git/Hello-World/Hello_WorldViewController.xib
+c0000000049D395400000000000001ADA
+t1238603072
+s6874
+
+N/Users/dajlling/Dev/Git/Hello-World/Hello_World_Prefix.pch
+c0000000049D3954000000000000000B7
+t1238603072
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dajlling/Dev/Git/Hello-World/MainWindow.xib
+c0000000049D395400000000000002367
+t1238603072
+s9063
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app.dSYM
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Hello World
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Hello_WorldViewController.nib
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Info.plist
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/MainWindow.nib
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/PkgInfo
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/ResourceRules.plist
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/icon.png
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello World.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldAppDelegate.o
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldViewController.o
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/dajlling/Dev/Git/Hello-World/icon.png
+c0000000049D395400000000000001230
+t1238603072
+s4656
+
+N/Users/dajlling/Dev/Git/Hello-World/main.m
+c0000000049D39540000000000000015E
+t1238603072
+s350
+i<UIKit/UIKit.h>
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/var/folders/GY/GYG2yGSHHga4vimCKktLck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-hhautfpeumpffhdklyjwutywidoy/Hello_World_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049D395400000000000000374
+t1238603072
+s884
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldAppDelegate.o" /Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldViewController.o" /Users/dajlling/Dev/Git/Hello-World/Classes/Hello_WorldViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/main.o" /Users/dajlling/Dev/Git/Hello-World/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/dajlling/Dev/Git/Hello-World/Hello_WorldViewController.xib
+r0
+
+CCompileXIB /Users/dajlling/Dev/Git/Hello-World/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/icon.png" icon.png
+r0
+
+CCpResource "build/Debug-iphoneos/Hello World.app/ResourceRules.plist" /Xcode3/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app.dSYM" "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Hello World"
+r0
+
+CLd "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Hello World" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/GY/GYG2yGSHHga4vimCKktLck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-hhautfpeumpffhdklyjwutywidoy/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/dajlling/Dev/Git/Hello-World/build/Debug-iphoneos/Hello World.app"
+r0
+
